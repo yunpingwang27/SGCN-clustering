@@ -1,0 +1,13 @@
+ 1 Al Qaeda 基地组织
+2 Egypt 埃及
+3 Hamas哈马斯
+4 Hezbollah 真主党
+5 Iran伊朗
+6 Iraq伊拉克
+7 ISIS
+8 Israel以色列
+9 Palestine巴基斯坦
+10 Saudi Arabia沙特阿拉伯
+11 Syria叙利亚
+12 Turkey土耳其
+13 US美国 
